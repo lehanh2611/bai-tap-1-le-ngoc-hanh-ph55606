@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss",
+    "string.h": "c",
+    "stdbool.h": "c",
+    "string": "c",
+    "iosfwd": "c",
+    "limits": "c",
+    "ratio": "c",
+    "chrono": "c",
+    "algorithm": "c",
+    "stdexcept": "c"
+  }
+}
